@@ -1,0 +1,1 @@
+ document.getElementById('player').style.visibility = "hidden";
