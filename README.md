@@ -10,5 +10,5 @@ to make the extention function even better.
 
 ## UPDATES
 
-1/9/22 - Made and added icon
-1/8/22 - Made the hiding function and tested on mozilla
+- 1/9/22 - Made and added icon
+- 1/8/22 - Made the hiding function and tested on mozilla
