@@ -4,8 +4,11 @@
     "name": "ytmusic-video-off.js",
     "version": "1.0",
   
-    "description": "This project will have the browser extention to stop video on \"music.youtube.com\"",
-  
+    "description": "This project will have the browser extention to stop video on music.youtube.com",
+    
+    "icons": {
+        "48": "icons/ytmusic-video-off48.png"
+      },
   
     "content_scripts": [
       {
