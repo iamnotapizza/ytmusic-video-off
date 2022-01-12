@@ -10,5 +10,6 @@ to make the extention function even better.
 
 ## UPDATES
 
+- 1/12/22 - Player is deleted instead of hiding and extended view has playlist centered horizontally
 - 1/9/22 - Made and added icon
 - 1/8/22 - Made the hiding function and tested on mozilla
