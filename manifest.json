@@ -2,9 +2,9 @@
 
     "manifest_version": 2,
     "name": "ytmusic-video-off.js",
-    "version": "1.0",
+    "version": "1.1",
   
-    "description": "This project will have the browser extention to stop video on music.youtube.com",
+    "description": "Stop video on music.youtube.com",
     
     "icons": {
         "48": "icons/ytmusic-video-off48.png"
